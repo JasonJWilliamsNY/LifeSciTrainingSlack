@@ -25,7 +25,7 @@ Use this [invitation link](https://join.slack.com/t/lifescitraining/shared_invit
 - Seek advice on the role of training in your career
 
 
-## What are something not to do on #LifeSciTraining Slack (Code of Conduct)
+## What are some things not to do on #LifeSciTraining Slack (Code of Conduct)
 
 This may evolve, but here is a starting point for joining. 
 
