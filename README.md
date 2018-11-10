@@ -2,6 +2,7 @@
 
 #### *[lifescitraining.slack.com](https://lifescitraining.slack.com)*
 
+
 ## What is #LifeSciTraining Slack?
 
 *A way to connect anyone and everyone who does training in the life sciences to share resources, advice, and conversation - all in the service of improving our teaching and our careers.* 
@@ -10,7 +11,9 @@
 
 **This is a community for all life sciences** - Are you an ecologist? a microscopist? Do you work at the bench, or on a cluster? Are you a graduate student, an undergraduate, a robot? Is short-format training your career,  something you do every summer, or something you are about to do? As long as your training is about a life science discipline, you belong here!
 
+## How to join #LifeSciTraining Slack
 
+Use this [invitation link](https://join.slack.com/t/lifescitraining/shared_invite/enQtNDc2NDk2NzMyNjkyLTE0NTRmNzBkYTIxZTBjNWIzNDhjZjc0MjU1MmFjZDNiMWI5MWQ4MTQxMDA3MDg1OGFjNzlhOGY4NWY2NjczMmM)
 
 ## What are some things to do on #LifeSciTraining Slack
 
