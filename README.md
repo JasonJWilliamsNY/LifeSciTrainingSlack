@@ -36,7 +36,7 @@ This may evolve, but here is a starting point for joining.
 
 |Name|Institution|Country|Training areas|Training Frequency|Contact|Communities|Teaching Tags|URL|
 |----|-----------|-------|--------------|------------------|-------|-----------|--------------|---|
-|Jason Williams|Cold Spring Harbor Laboratory|USA|Bioinformatics, Molecular Biology| A few times a year|williams@cshl.edu, @JasonWilliamsNY|The Carpentries - Software, Data, Library Carpentry, CyVerse, NIH Data Commons|Molecular cloning, R, Python, Jupyter, Docker, cloud computing, RNA-Seq, education and assessment|http://jasonjwilliamsny.github.io/profile/|
+|Jason Williams|Cold Spring Harbor Laboratory|USA|Bioinformatics, Molecular Biology| A few times a year|williams@cshl.edu, @JasonWilliamsNY|The Carpentries - Software, Data, Library Carpentry, CyVerse, NIH Data Commons|Molecular cloning, R, Python, Jupyter, Docker, cloud computing, RNA-Seq, education and assessment|[http://jasonjwilliamsny.github.io/profile/](http://jasonjwilliamsny.github.io/profile/)|
 
 ## Who started this and where is this going?
 
