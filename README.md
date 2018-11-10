@@ -16,9 +16,10 @@
 
 - Let people know you exist!
 - Ask for help about creating or teaching a workshop
+- Share tips for organizing a workshop
 - Discuss how to evaluate and assess your impact
 - Introduce yourself training materials and get feedback 
-- Share advice on the role of training in your career
+- Seek advice on the role of training in your career
 
 
 ## What are something not to do on #LifeSciTraining Slack (Code of Conduct)
