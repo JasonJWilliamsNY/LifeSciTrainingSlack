@@ -61,6 +61,8 @@ This may evolve, but here is a starting point for joining.
 |Julie McMurry|OSU|USA|Health/medical sciences, GSuite for team science|A few times a year|@figgyjam|NIH - National Institutes of Health|gsuite, data science|[https://data2health.github.io/mtip-tutorial/](https://data2health.github.io/mtip-tutorial/)|
 |Emily Lescak|University of Alaska |USA|Bioinformatics, General Life Sciences, Microbiology, Microscopy, Scientific writing, science communication|A few times a year|elescak@alaska.edu; @elescak|Genetics Society of America|science communication, bioinformatics||
 |Olabode Ajayi|University of the Western Cape/SANBI|South Africa|Bioinformatics, Biology mathematics/statistics, DNA Sequencing, Genomics, Proteomics|Once a year or less|3004115@myuwc.ac.za|The Carpentries - Software, Data, Library Carpentry, Galaxy, H3ABioNet - Pan African Bioinformatics network, ISCB - International Society for Computational Biology, NIH - National Institutes of Health|Bioinformatics and Datascience|[https://github.com/boratonAJ](https://github.com/boratonAJ)|
+|Lex Nederbragt|University of Oslo|Norway|Bioinformatics|A few times a year|lex.nederbragt@ibv.uio.no Twitter: [@lexnederbragt](twitter.com/lexnederbragt)|The Carpentries - Software and Data Carpentry|Bioinformatics, Good Practice in Computational Biology, Reproducibility in Computational Biology, Sequencing data analysis|[https://github.com/lexnederbragt](https://github.com/lexnederbragt)|
+
 
 ## Who started this and where is this going?
 
