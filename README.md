@@ -85,7 +85,7 @@ This may evolve, but here is a starting point for joining.
 |Jeff Oliver|University of Arizona|USA|Bioinformatics, Ecology, Evolution|Once a month or more|jcoliver@email.arizona.edu, @jcoliverAZ|The Carpentries - Software, Data, Library Carpentry, CyVerse|R, python, phyloinformatics|[https://jcoliver.github.io/learn-r](https://jcoliver.github.io/learn-r)|
 |Sarah Stevens|University of Wisconsin - Madison|USA|Bioinformatics, Ecology, Genomics|A few times a year|@microStevens|The Carpentries - Software, Data, Library Carpentry||[http://sarahlrstevens.info](http://sarahlrstevens.info)|
 |Chissa Rivaldi|University of Notre Dame|USA|Bioinformatics, Biology mathematics/statistics, DNA Sequencing, Ecology, General Life Sciences, Population genetics|A few times a year|clrivaldi@gmail.com, @powerofcheez|The Carpentries - Software, Data, Library Carpentry|bash, python; r, anatomy, physiology, population genetics, GIS|[https://github.com/crivaldi](https://github.com/crivaldi)|
-
+|Alexander Botzki|VIB|Belgium|Bioinformatics, Cheminformatics, General Life Sciences|A few times a year|alexander.botzki@vib.be, @vibbioinfocore|ELIXIR|bash, python, docker, bioconda, protein structure analysis|[https://www.bits.vib.be](https://www.bits.vib.be)|
 
 ## Who started this and where is this going?
 
