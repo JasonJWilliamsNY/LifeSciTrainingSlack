@@ -35,7 +35,7 @@ This may evolve, but here is a starting point for joining.
 
 ## #LifeSciTraining Slack Registry
 
-**Identification is optional** - You can still participate on the Slack, but I thought it would be cool if there was a registry of people that would be searchable.  Feel free to identify here by filling out this [google form](https://goo.gl/forms/ZBW1Vln3RXs5uvTx1). Contact [Jason Williams](mailto:williams@cshl.edu) to edit or remove your entry from the list, or file a pull request on [Github](https://github.com/JasonJWilliamsNY/LifeSciTrainingSlack). 
+**Identification is optional** - You can still participate on the Slack, but I thought it would be cool if there was a registry of people that would be searchable.  Feel free to identify here by filling out this [google form](https://goo.gl/forms/ZBW1Vln3RXs5uvTx1). Contact [Jason Williams](mailto:williams@cshl.edu) to edit or remove your entry from the list, or file a pull request on [Github](https://github.com/JasonJWilliamsNY/LifeSciTrainingSlack).
 
 |Name|Institution|Country|Training areas|Training Frequency|Contact|Communities|Teaching Tags|URL|
 |----|-----------|-------|--------------|------------------|-------|-----------|--------------|---|
@@ -87,7 +87,11 @@ This may evolve, but here is a starting point for joining.
 |Chissa Rivaldi|University of Notre Dame|USA|Bioinformatics, Biology mathematics/statistics, DNA Sequencing, Ecology, General Life Sciences, Population genetics|A few times a year|clrivaldi@gmail.com, @powerofcheez|The Carpentries - Software, Data, Library Carpentry|bash, python; r, anatomy, physiology, population genetics, GIS|[https://github.com/crivaldi](https://github.com/crivaldi)|
 |Chris Fields|University of Illinois Urbana-Champgin|USA|Bioinformatics, DNA Sequencing, Microbiome/Metagenome, Genomics|several times a year (varies)|[@cjfields](https://twitter.com/cjfields)|The Carpentries - Software, Data Carpentry; BD2K; H3ABioNet - Pan African Bioinformatics network|HPC, Python, R, Perl, Genomics, Epigenome, Metagenome, Microbiome|[https://github.com/HPCBio](https://github.com/HPCBio)|
 |Alexander Botzki|VIB|Belgium|Bioinformatics, Cheminformatics, General Life Sciences|A few times a year|alexander.botzki@vib.be, @vibbioinfocore|ELIXIR|bash, python, docker, bioconda, protein structure analysis|[https://www.bits.vib.be](https://www.bits.vib.be)|
-
+|Bérénice Batut|University of Freiburg|Germany|Bioinformatics, Genomics|A few times a year|berenice.batut@gmail.com @bebatut|The Carpentries - Software, Data, Library Carpentry, ELIXIR, Galaxy, GOBLET - Global Organisation for Bioinformatics Learning, Education & Training|[http://research.bebatut.fr/](http://research.bebatut.fr/)|
+|Sean Davis|National Cancer Institute, NIH|USA|Bioinformatics, Biology mathematics/statistics, Genomics, Health/medical sciences|A few times a year||NIH - National Institutes of Health, Cold Spring Harbor Laboratory|Bioinformatics, Data Science, Cloud and Distributed Computing, Reproducible Research, Science IT, R|[https://seandavi.github.io/](https://seandavi.github.io/)|
+|James Taylor|Johns Hopkins|USA|Bioinformatics, DNA Sequencing, General Life Sciences, Genomics, Molecular biology|A few times a year|@jxtx|Galaxy, ISCB - International Society for Computational Biology, NIH - National Institutes of Health, NSF - National Science Foundation|[https://taylorlab.org](https://taylorlab.org)|
+|Ann Meyer|bioinformatics.ca|Canada|Bioinformatics|A few times a year|course_info@bioinformatics.ca|GOBLET - Global Organisation for Bioinformatics Learning, Education & Training|[https://bioinformaticsdotca.github.io/](https://bioinformaticsdotca.github.io/)|
+|Henk den Bakker|University of Georgia|USA|Bioinformatics, Biology mathematics/statistics, DNA Sequencing, Genomics, Microbiology|A few times a year|henkcdenbakker@gmail.com|ASM - American Society for Microbiology|[https://github.com/hcdenbakker](https://github.com/hcdenbakker)|
 
 ## Who started this and where is this going?
 
