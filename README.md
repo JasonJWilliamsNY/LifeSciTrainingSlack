@@ -92,6 +92,7 @@ This may evolve, but here is a starting point for joining.
 |James Taylor|Johns Hopkins|USA|Bioinformatics, DNA Sequencing, General Life Sciences, Genomics, Molecular biology|A few times a year|@jxtx|Galaxy, ISCB - International Society for Computational Biology, NIH - National Institutes of Health, NSF - National Science Foundation|[https://taylorlab.org](https://taylorlab.org)|
 |Ann Meyer|bioinformatics.ca|Canada|Bioinformatics|A few times a year|course_info@bioinformatics.ca|GOBLET - Global Organisation for Bioinformatics Learning, Education & Training|[https://bioinformaticsdotca.github.io/](https://bioinformaticsdotca.github.io/)|
 |Henk den Bakker|University of Georgia|USA|Bioinformatics, Biology mathematics/statistics, DNA Sequencing, Genomics, Microbiology|A few times a year|henkcdenbakker@gmail.com|ASM - American Society for Microbiology|[https://github.com/hcdenbakker](https://github.com/hcdenbakker)|
+|Mark Dunning|University of Sheffield|Uk|Bioinformatics, Genomics, Software and Data Carpentry|A few times a year|m.j.dunning@sheffield.ac.uk, twitter:@DrMarkDunning|The carpentries-Software,Data|bioinformatics,R,genomics,RNA-seq|[Sheffield Bioinformatics Core](https://sbc.shef.ac.uk)|
 
 ## Who started this and where is this going?
 
