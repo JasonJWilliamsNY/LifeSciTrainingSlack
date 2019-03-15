@@ -92,6 +92,13 @@ This may evolve, but here is a starting point for joining.
 |James Taylor|Johns Hopkins|USA|Bioinformatics, DNA Sequencing, General Life Sciences, Genomics, Molecular biology|A few times a year|@jxtx|Galaxy, ISCB - International Society for Computational Biology, NIH - National Institutes of Health, NSF - National Science Foundation|[https://taylorlab.org](https://taylorlab.org)|
 |Ann Meyer|bioinformatics.ca|Canada|Bioinformatics|A few times a year|course_info@bioinformatics.ca|GOBLET - Global Organisation for Bioinformatics Learning, Education & Training|[https://bioinformaticsdotca.github.io/](https://bioinformaticsdotca.github.io/)|
 |Henk den Bakker|University of Georgia|USA|Bioinformatics, Biology mathematics/statistics, DNA Sequencing, Genomics, Microbiology|A few times a year|henkcdenbakker@gmail.com|ASM - American Society for Microbiology|[https://github.com/hcdenbakker](https://github.com/hcdenbakker)|
+|Piraveen Piv Gopalasingam|European Bioinformatics Institute (EMBL-EBI)|United Kingdom|Bioinformatics|Once a month or more|piv@ebi.ac.uk , @cascade21|ELIXIR, EMBL - European Molecular Biology Laboratory (and all EMBL-related projects), Galaxy, ISCB - International Society for Computational Biology|
+|Niall Beard|University of Manchester|United Kingdom|Bioinformatics|Once a year or less|niall.beard@manchester.ac.uk / @niall_beard |The Carpentries - Software, Data, Library Carpentry, ELIXIR, GOBLET - Global Organisation for Bioinformatics Learning, Education & Training|
+|Peter  Rice|Oryza Bioinformatics|United Kingdom|Bioinformatics, Biology mathematics/statistics, General Life Sciences, Genomics, Health/medical sciences, Molecular biology|A few times a year|ricepeterm@yahoo.co.uk|i2b2-tranSMART Foundation|
+|Ted Laderas|Oregon Health & Science University |USA|Bioinformatics, Biology mathematics/statistics, Health/medical sciences|A few times a year|@tladeras||
+|Jonathan Cummings|School for Marine Science and Technology|USA|Biology mathematics/statistics, Ecology, Structured Decision Making|A few times a year|jonathan.cummings@gmail.com|Society of Conservation Biology|
+|Kate Hertweck|Fred Hutch Cancer Research Center|USA|Bioinformatics, Biology mathematics/statistics, Genomics|Once a month or more|@k8hert, k8hertweck@gmail.com|The Carpentries - Software, Data, Library Carpentry|
+|Jarrett Byrnes|University of Massachusetts Boston|USA|Ecology, Marine biology|A few times a year|jebyrnes|The Carpentries - Software, Data, Library Carpentry, ESA - Ecological society of america, NSF - National Science Foundation|
 
 ## Who started this and where is this going?
 
