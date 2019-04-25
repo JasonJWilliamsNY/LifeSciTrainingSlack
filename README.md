@@ -110,6 +110,7 @@ This may evolve, but here is a starting point for joining.
 |Jonathan Cummings|School for Marine Science and Technology|USA|Biology mathematics/statistics, Ecology, Structured Decision Making|A few times a year|jonathan.cummings@gmail.com|Society of Conservation Biology|
 |Kate Hertweck|Fred Hutch Cancer Research Center|USA|Bioinformatics, Biology mathematics/statistics, Genomics|Once a month or more|@k8hert, k8hertweck@gmail.com|The Carpentries - Software, Data, Library Carpentry|
 |Jarrett Byrnes|University of Massachusetts Boston|USA|Ecology, Marine biology|A few times a year|jebyrnes|The Carpentries - Software, Data, Library Carpentry, ESA - Ecological society of america, NSF - National Science Foundation|
+|Mateusz Kuzak|Dutch Techcentre fo Life Sciences|the Netherlands|Bioinformatics, Software Engineering, Data Analysis|A few times a year|@matkuzak mateusz.kuzak@dtls.nl|the Carpentries, ELIXIR, RSE|Pedagogy, R, Python, Docker, Jupyter|
 
 ## Who started this and where is this going?
 
