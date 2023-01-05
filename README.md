@@ -1,5 +1,7 @@
 # Life Science Training Slack
 
+**THIS INFORMATION IS ARCHIVAL - PLEASE SEE INSTRUCTIONS ON OUR WEBSITE [https://lifescitrainers.org/](https://lifescitrainers.org/)**
+
 #### *[lifescitraining.slack.com](https://lifescitraining.slack.com)*
 
 
